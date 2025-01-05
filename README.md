@@ -71,3 +71,7 @@ Para ejecutar las pruebas, abre el proyecto y corre las pruebas con **XCTest** e
 ## Convivencia entre SwiftUI y UIKit
 
 En este proyecto, se ha demostrado cómo **SwiftUI** y **UIKit** pueden convivir de manera eficiente dentro de una misma aplicación, utilizando **UIViewControllerRepresentable** para integrar componentes de SwiftUI en vistas de UIKit y viceversa.
+
+## Login
+
+Para el login de la App puedes usar el usuario: admin@gmail.com con password: 12345678 o logearte con google directamente
