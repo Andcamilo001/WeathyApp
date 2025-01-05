@@ -1,0 +1,32 @@
+{
+  "name": "Home",
+  "version": "1.0.0",
+  "summary": "Home.",
+  "description": "Home",
+  "homepage": "https://github.com/Andcamilo001/Home",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tu Nombre": "andcamilo001@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Andcamilo001/Home.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "Home/**/*.{swift,h,m}",
+  "requires_arc": true,
+  "swift_versions": [
+    "5.0"
+  ],
+  "dependencies": {
+    "NetworkWeathy": [],
+    "NetworkInterface": [],
+    "Coordinator": []
+  },
+  "swift_version": "5.0"
+}

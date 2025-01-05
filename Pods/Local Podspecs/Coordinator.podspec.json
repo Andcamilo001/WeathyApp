@@ -1,0 +1,30 @@
+{
+  "name": "Coordinator",
+  "version": "1.0.0",
+  "summary": "Coordinator.",
+  "description": "Coordinator",
+  "homepage": "https://github.com/Andcamilo001/Coordinator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tu Nombre": "andcamilo001@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Andcamilo001/Coordinator.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "Coordinator/**/*.{swift,h,m}",
+  "requires_arc": true,
+  "swift_versions": [
+    "5.0"
+  ],
+  "dependencies": {
+    "Description": []
+  },
+  "swift_version": "5.0"
+}

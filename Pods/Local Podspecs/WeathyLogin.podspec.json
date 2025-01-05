@@ -1,0 +1,55 @@
+{
+  "name": "WeathyLogin",
+  "version": "1.0.0",
+  "summary": "Módulo para gestionar la UX del login.",
+  "description": "Gestiona la logica del login y la UX de la misma de la app.",
+  "homepage": "https://github.com/Andcamilo001/WeathyLogin",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tu Nombre": "andcamilo001@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Andcamilo001/WeathyLogin.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "WeathyLogin/**/*.{swift,h,m}",
+  "requires_arc": true,
+  "swift_versions": [
+    "5.0",
+    "5.1",
+    "5.2",
+    "5.3",
+    "5.4",
+    "5.5",
+    "5.6",
+    "5.7"
+  ],
+  "dependencies": {
+    "lottie-ios": [],
+    "RemoteAssets": [],
+    "DSCore": [],
+    "FirebaseCore": [],
+    "GoogleSignIn": [],
+    "FirebaseAuth": [],
+    "TabBarHome": []
+  },
+  "testspecs": [
+    {
+      "name": "Tests",
+      "test_type": "unit",
+      "source_files": "WeathyLoginTests/**/*.{swift}",
+      "dependencies": {
+        "Quick": [],
+        "Nimble": [],
+        "Nimble-Snapshots": []
+      }
+    }
+  ],
+  "swift_version": "5.7"
+}

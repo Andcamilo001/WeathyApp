@@ -1,0 +1,6 @@
+framework module TabBarHome {
+  umbrella header "TabBarHome-umbrella.h"
+
+  export *
+  module * { export * }
+}

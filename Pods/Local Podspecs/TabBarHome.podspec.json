@@ -1,0 +1,33 @@
+{
+  "name": "TabBarHome",
+  "version": "1.0.0",
+  "summary": "TabBarHome.",
+  "description": "TabBarHome",
+  "homepage": "https://github.com/Andcamilo001/TabBarHome",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tu Nombre": "andcamilo001@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Andcamilo001/TabBarHome.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "TabBarHome/**/*.{swift,h,m}",
+  "requires_arc": true,
+  "swift_versions": [
+    "5.0"
+  ],
+  "dependencies": {
+    "Home": [],
+    "Favorites": [],
+    "News": [],
+    "Coordinator": []
+  },
+  "swift_version": "5.0"
+}

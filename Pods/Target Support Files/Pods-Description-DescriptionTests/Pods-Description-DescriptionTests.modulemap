@@ -1,0 +1,6 @@
+framework module Pods_Description_DescriptionTests {
+  umbrella header "Pods-Description-DescriptionTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

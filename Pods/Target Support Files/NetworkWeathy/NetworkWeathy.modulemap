@@ -1,0 +1,6 @@
+framework module NetworkWeathy {
+  umbrella header "NetworkWeathy-umbrella.h"
+
+  export *
+  module * { export * }
+}

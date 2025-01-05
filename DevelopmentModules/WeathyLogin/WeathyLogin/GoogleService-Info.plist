@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>448249486925-7tq8t80e2dlt59nf162imjfo1lujot4d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.448249486925-7tq8t80e2dlt59nf162imjfo1lujot4d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1E_CwnMwJBrOIU95WIaT5YzTcv980rsQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>448249486925</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.andcamilo001.Weathy</string>
+	<key>PROJECT_ID</key>
+	<string>weathy-41f5e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>weathy-41f5e.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:448249486925:ios:c48833204bdbb86d9d8604</string>
+</dict>
+</plist>

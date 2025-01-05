@@ -1,0 +1,6 @@
+framework module Pods_NetworkWeathy {
+  umbrella header "Pods-NetworkWeathy-umbrella.h"
+
+  export *
+  module * { export * }
+}

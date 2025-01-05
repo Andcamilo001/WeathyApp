@@ -1,0 +1,6 @@
+framework module WeathyLogin {
+  umbrella header "WeathyLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}

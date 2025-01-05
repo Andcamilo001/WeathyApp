@@ -1,0 +1,6 @@
+framework module Pods_WeathyLogin_WeathyLoginTests {
+  umbrella header "Pods-WeathyLogin-WeathyLoginTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

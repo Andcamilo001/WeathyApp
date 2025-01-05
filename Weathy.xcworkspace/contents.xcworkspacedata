@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:DevelopmentModules/Coordinator/Coordinator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DevelopmentModules/Description/Description.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DevelopmentModules/News/News.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DevelopmentModules/Favorites/Favorites.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DevelopmentModules/Home/Home.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DevelopmentModules/TabBarHome/TabBarHome.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DevelopmentModules/NetworkWeathy/NetworkWeathy.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DevelopmentModules/NetworkInterface/NetworkInterface.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DevelopmentModules/DSCore/DSCore.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DevelopmentModules/RemoteAssets/RemoteAssets.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DevelopmentModules/WeathyLogin/WeathyLogin.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Weathy.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../WeathyTest.xctestplan">
+   </FileRef>
+</Workspace>

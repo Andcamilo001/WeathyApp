@@ -1,0 +1,27 @@
+{
+  "name": "News",
+  "version": "1.0.0",
+  "summary": "News.",
+  "description": "News",
+  "homepage": "https://github.com/Andcamilo001/News",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tu Nombre": "andcamilo001@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Andcamilo001/News.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "News/**/*.{swift,h,m}",
+  "requires_arc": true,
+  "swift_versions": [
+    "5.0"
+  ],
+  "swift_version": "5.0"
+}

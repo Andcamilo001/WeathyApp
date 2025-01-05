@@ -1,0 +1,6 @@
+framework module RemoteAssets {
+  umbrella header "RemoteAssets-umbrella.h"
+
+  export *
+  module * { export * }
+}

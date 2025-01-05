@@ -1,0 +1,6 @@
+framework module Description {
+  umbrella header "Description-umbrella.h"
+
+  export *
+  module * { export * }
+}

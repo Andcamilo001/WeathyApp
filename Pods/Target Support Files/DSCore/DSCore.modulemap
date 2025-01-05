@@ -1,0 +1,6 @@
+framework module DSCore {
+  umbrella header "DSCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
